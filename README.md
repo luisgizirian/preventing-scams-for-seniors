@@ -59,7 +59,7 @@ Speed matters. Acting quickly can reduce damage.
 
 ## Why This Project Exists
 
-The author has more than 25 years in software development, with experience in cloud systems and security-minded architecture. This project translates technical security awareness into practical guidance for non-technical audiences.
+Scam prevention advice is often either too technical or too vague. This project focuses on translating technical security awareness into practical, plain-language steps that seniors, caregivers, and families can actually use in everyday situations.
 
 For more context, see [BIO.md](BIO.md).
 
