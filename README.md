@@ -61,5 +61,5 @@ Speed matters. Acting quickly can reduce damage.
 
 Scam prevention advice is often either too technical or too vague. This project focuses on translating technical security awareness into practical, plain-language steps that seniors, caregivers, and families can actually use in everyday situations.
 
-For more context, see [BIO.md](BIO.md).
+For author's context, see [BIO.md](BIO.md).
 
