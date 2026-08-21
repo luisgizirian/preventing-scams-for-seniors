@@ -151,3 +151,9 @@ Technology changes. Tactics change.
 Scammers want you to **react before you think.**
 
 # STOP. THINK. VERIFY.
+
+---
+
+# Thank You!
+
+## Q&A.

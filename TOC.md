@@ -6,8 +6,6 @@
 
 **Recommended Length**
 - Session 1: 45–60 minutes
-- Session 2: 45–60 minutes
-- Session 3: 45–60 minutes
 
 ---
 
