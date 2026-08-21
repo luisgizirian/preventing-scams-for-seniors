@@ -1,3 +1,7 @@
+---
+marp: true
+---
+
 # Staying Safe: Avoiding Today's Scams
 ### A Practical Guide for Seniors
 
