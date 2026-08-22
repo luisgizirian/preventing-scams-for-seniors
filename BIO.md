@@ -1,5 +1,5 @@
 ## Software developer for the last 25+ years
-I've been working in the software development industry, specializing in multi-tenant SaaS platforms (or, in English: web-based services running multiple clients at once from the same codebase), cloud computing, and software architecture. I have amassed a not-always-complete but extensive knowledge in various programming languages, frameworks, and compute devices, and I am passionate about creating efficient and scalable software solutions.
+I've been working in the software development industry, specializing in multi-tenant SaaS platforms (or, in English: web-based services running multiple clients at once from the same codebase), cloud computing, and software architecture. I have amassed some knowledge in various programming languages, frameworks, and compute devices, and I am passionate about creating efficient and scalable software solutions.
 
 I also have a strong background in startup building, having run my own software services based businesses. This entrepreneurial experience gives me a practical, business-oriented perspective on top of my technical expertise.
 
