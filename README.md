@@ -10,11 +10,12 @@ Scammers change their stories constantly, but their pressure tactics stay the sa
 
 ## What Is In This Repository
 
-This project is organized into three complementary documents, each with a specific role:
+This project is organized into complementary documents, each with a specific role:
 
 1. **Course guide**: [TOC.md](TOC.md)
 2. **Printable quick-reference card**: [survival-card.md](survival-card.md)
 3. **Author background and context**: [BIO.md](BIO.md)
+4. **Presentation logistics**: [LOGISTICS.md](LOGISTICS.md)
 
 ## How To Use These Materials
 
